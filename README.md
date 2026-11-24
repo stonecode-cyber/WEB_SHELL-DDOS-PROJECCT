@@ -1,4 +1,3 @@
-# WEB_SHELL-DDOS-PROJECCT
 
 # DOS-DDOS-ATTACK-INVESTIGATION
 ### Log Analysis & SIEM Traffic Investigation: DoS/DDoS Mitigation with Splunk
